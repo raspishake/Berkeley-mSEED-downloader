@@ -30,7 +30,7 @@ Once this is done, it is possible to open the `.ipynb` file in the repository. M
 
 The process and file are commented throughout the various steps, however, this is a brief guide to use them: 
 
-1. Open the `.xlsx` file and add the UTC Date/Time (with the format `YYYY-MM-DDThh-mm-ss.ddd`) of an earthquake, together with Latitude and Longitude of its epicenter, in decimals (i.e. `34.256`, `116.289`)
+1. Open the `.xlsx` file and add the UTC Date/Time (with the format `YYYY-MM-DDThh-mm-ss.ddd`) of an earthquake, together with Latitude and Longitude of its epicenter, in decimals (i.e. `34.256`, `-116.289`)
 2. The earthquake list can be as long as it is desired. Please do not insert empty rows between an event and another. Three test events are listed for demonstration purposes.
 3. Save the `.xlsx` file and open the `.ipynb` file. Nothing should be modified in this file unless a particular condition is required.
 4. Execute the script. 
